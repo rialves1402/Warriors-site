@@ -2,13 +2,13 @@ body{
   background-color: #aeaeae
 }
 h2{
-  text-align: center; font-size: 100px; font-family: monospace;
+  text-align: center; font-size: 60px; font-family: monospace;
 }
 h3{
   text-align: justify; font-size: 30px; font-family: sans-serif;
 }
 h4{
-  text-align: justify;font-size: 25px;font-family: inherit;
+  text-align: justify;font-size: 40px;font-family: inherit;
 }
 h5{
   text-align: justify;flex-flow: column-reverse; 50padding:
