@@ -65,3 +65,39 @@ h5{
 .camisa-cinza1{
   width: 29%
 }
+.time {
+  padding: 0px 20px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: green;
+}
+main {
+  padding: 20px 0px;
+  display: flex;
+  justify-content: space-around;
+  background-color: yellowgreen;
+}
+história, NBA {
+  width: 45%;
+}
+se inventou header {
+  padding: 10px;
+  text-align: center;
+  background-color: orange;
+}
+inventou div {
+  padding: 10px;
+  text-align: center;
+  background-color: yellow;
+}
+Primeira NBA header {
+  padding: 10px;
+  text-align: center;
+  background-color: orange;
+}
+Dominante NBA div {
+  padding: 10px;
+  text-align: center;
+  background-color: yellow;
+}
